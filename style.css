@@ -5,3 +5,7 @@ color: white;
 img{
   border-radius: 15px;
 }
+.gallery{
+    display:flex;
+    justify-content:center;
+}
