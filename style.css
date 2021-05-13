@@ -4,8 +4,8 @@ color: white;
 }
 img{
   border-radius: 15px;
-  width:1500px;
-  height:1000px;
+  width:1000px;
+  height:750px;
 }
 .gallery{
     display:flex;
