@@ -14,15 +14,6 @@ width:1000px;
 h1{
   border-radius:8px;
 }
-
-.dad{
+iframe{
   position:center;
-  width:714px;
-  height:399px;
-}
-
-.mam{
-  pocition:center;
-  width:916px;
-  height:515px;
 }
