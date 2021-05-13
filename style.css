@@ -15,8 +15,14 @@ h1{
   border-radius:8px;
 }
 
-iframe{
+.dad{
   position:center;
   width:714px;
   height:399px;
+}
+
+.mam{
+  pocition:center;
+  width:916px;
+  height:515px;
 }
