@@ -1,1 +1,8 @@
+.gallery{
+    display:flex;
+    justify-content:center;
+}
 
+body{
+  background-image:linear-gradient(blue,white,black);
+}
